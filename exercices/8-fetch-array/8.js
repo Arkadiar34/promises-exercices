@@ -7,7 +7,7 @@
 //   totalElements: 0
 //	}
 
-// Pour lancer seulement ce test: npm run test -- 8.test.ts (attention il relance le test automatiquement à chaque modification de ce fichier)
+// Pour lancer seulement ce test: npm run test -- 8.test.js (attention il relance le test automatiquement à chaque modification de ce fichier)
 export default function fetchAPI() {
 	// votre code ici
 }
