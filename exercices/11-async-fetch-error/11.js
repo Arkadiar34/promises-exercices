@@ -5,7 +5,7 @@
 // vous pouvez trouver des ressources ici sur l'utilisation d'async await https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Statements/async_function
 // En video : https://www.youtube.com/watch?v=vn3tm0quoqE
 
-// Pour lancer ce test: npm run test -- 11.test.ts
+// Pour lancer ce test: npm run test -- 11.test.js
 export default function fetchAPI() {
 	// votre code ici
 }
